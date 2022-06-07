@@ -1,5 +1,5 @@
 let game = {
-    choices: [],
+    choices: ["button1", "button2", "button3", "button4"],
     playerMoves: [],
     currentGame: [],
     score: 0,
